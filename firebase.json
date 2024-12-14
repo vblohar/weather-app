@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/weather-app/browser",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
